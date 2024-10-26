@@ -3,7 +3,7 @@ import "./header.css";
 
 export default function Header() {
   // Toggle Menu State
-  const [toggle, showMenu] = useState(false);
+  const [ Toggle, showMenu] = useState(false);
 
   return (
     <header className="header">
@@ -12,7 +12,7 @@ export default function Header() {
           Yash
         </a>
 
-        <div className={toggle ? "nav__menu show-menu" : "nav__menu"}>
+        <div className={ Toggle ? "nav__menu show-menu" : "nav__menu"}>
           <ul className="nav__list grid">
             <li className="nav__item">
               <a href="#home" className="nav__link active-link">
@@ -57,13 +57,13 @@ export default function Header() {
           </ul>
 
           <i
-            class="uil uil-times nav__close"
+            className="uil uil-times nav__close"
             onClick={() => showMenu(!toggle)}
           ></i>
         </div>
 
         <div className="nav__toggle" onClick={() => showMenu(!toggle)}>
-          <i class="uil uil-apps"></i>
+          <i className="uil uil-apps"></i>
         </div>
       </nav>
     </header>
