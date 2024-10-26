@@ -5,10 +5,10 @@ Welcome to my portfolio! I’m Yash Bhatt, a Web Developer specializing in the *
 ---
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [About Me](#about-me)
-- [Skills](#skills)
-- [Certifications](#certifications)
+- [Overview](#📖overview)
+- [About Me](#👨‍💻about-me)
+- [Skills](#🛠️skills)
+- [Certifications](#📜certifications)
 - [Education](#education)
 - [Contact](#contact)
 
