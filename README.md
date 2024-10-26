@@ -4,15 +4,7 @@ Welcome to my portfolio! I’m Yash Bhatt, a Web Developer specializing in the *
 
 ---
 
-## 📑 Table of Contents
-- [Overview](#📖overview)
-- [About Me](#👨‍💻about-me)
-- [Skills](#🛠️skills)
-- [Certifications](#📜certifications)
-- [Education](#education)
-- [Contact](#contact)
 
----
 
 ## 📖 Overview
 This portfolio highlights my expertise in building dynamic, user-centric web applications. It includes key projects, personal achievements, and ways to connect. My goal is to consistently deliver high-quality software solutions while deepening my skills and knowledge.
